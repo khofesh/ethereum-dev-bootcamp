@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".learneth/Solidity Introduction/6_Address_and_Mapping/publicAddressMapping.sol": "Coin"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".learneth/Solidity Introduction/6_Address_and_Mapping/publicAddressMapping.sol": {
+			"keccak256": "0x34ba8d32539b886ae22ace6d922b4fa20b883cb9475ca460103f5ecc71724f31",
+			"urls": [
+				"bzz-raw://76488793767c9839e10ae9bc03d4f49a8bac3088d7bc4c7fa53f60f4d51a718e",
+				"dweb:/ipfs/QmZqjybJfabmVAjvweU9bcWx5Wahop7iqVedpD5UykxiTa"
+			]
+		}
+	},
+	"version": 1
+}

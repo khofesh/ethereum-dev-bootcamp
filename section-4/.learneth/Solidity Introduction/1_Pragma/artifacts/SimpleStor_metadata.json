@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".learneth/Solidity Introduction/1_Pragma/pragma_answer.sol": "SimpleStor"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".learneth/Solidity Introduction/1_Pragma/pragma_answer.sol": {
+			"keccak256": "0x0d9c924a6c09fb98e5fc04610c81971e5f98ceb7f344c3a9b1c9d9492e94d12e",
+			"urls": [
+				"bzz-raw://6c9643cc00d854af2153ea12c521338b2c458c2411b661f0498bb31b83013b60",
+				"dweb:/ipfs/QmXysHvWKAgjWB9uTng5TYgAs4sosGTcAtGp4QdaeKP3cx"
+			]
+		}
+	},
+	"version": 1
+}

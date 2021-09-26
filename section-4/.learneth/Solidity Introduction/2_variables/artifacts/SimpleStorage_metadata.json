@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".learneth/Solidity Introduction/2_variables/variables_answer.sol": "SimpleStorage"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".learneth/Solidity Introduction/2_variables/variables_answer.sol": {
+			"keccak256": "0x2ec0f1a8ae41b597137a9666ad50f1cb06b3ba46b3cfa0af8c4beea73745b042",
+			"urls": [
+				"bzz-raw://0c14cc258a18ed8ea1efdc4041e1040d74943296c9396129134f5a90c4197a57",
+				"dweb:/ipfs/QmTRPMnex1m8HhkxyNifJq1PbPSNUDRBnr27cef9pg9bLd"
+			]
+		}
+	},
+	"version": 1
+}

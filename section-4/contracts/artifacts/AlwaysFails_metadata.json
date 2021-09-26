@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "aFunction",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/AlwaysFails.sol": "AlwaysFails"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/AlwaysFails.sol": {
+			"keccak256": "0x7cff3a84fbd06a297af924bdbdf9f9daccebf161cf84fcc4c121b4f51d1b2f29",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6e64c70ac25a104c6425f040a8a441cb19a6e980ccc7e8459a40654b8afcfddf",
+				"dweb:/ipfs/QmV8CAb7yeT6eXnV2PhezDW1tHFxQ2H9TqTCwdJ5UFgp4o"
+			]
+		}
+	},
+	"version": 1
+}
