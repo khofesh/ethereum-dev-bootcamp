@@ -1,7 +1,7 @@
 import Web3, { providers } from "web3";
 
 // web3 instance
-const web3 = new Web3(new providers.HttpProvider("http://127.0.0.1:7545"));
+const web3 = new Web3(new providers.HttpProvider("http://127.0.0.1:8545"));
 
 const source = "0xbC9c84097A7D0366509eE00a67236fC32E14bDCB";
 const destination = "0xf8e81D47203A594245E36C48e151709F0C19fBe8";
