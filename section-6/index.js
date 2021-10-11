@@ -110,12 +110,12 @@ async function ethCall2() {
       from: source,
     });
     const sendResult = await myContract.methods.setUint(50).send();
-    const result = await myContract.methods.window.getMyUint().call();
+    // const result = await myContract.methods.getMyUint().call();
 
     return {
       status: true,
       sendResult,
-      result,
+      // result,
     };
   } catch (error) {
     console.log(error);
